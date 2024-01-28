@@ -1,1 +1,3 @@
-target/debug
+# Ignore Build File
+
+sha1/target
