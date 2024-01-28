@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    print!("Cracker - sha1 - simple simple \n");
 }
